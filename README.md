@@ -1,5 +1,5 @@
 
-# Smart Agentic Business Dashboard
+# Smart Agentic Business Dashboard[Pebbles.AI]
 
 A smart, agent-driven business dashboard integrating Retrieval-Augmented Generation (RAG) for answering business queries and Visualization Agents for dynamic data visualization.
 
